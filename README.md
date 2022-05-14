@@ -1,8 +1,7 @@
 <h3>APRESENTAÇÃO</h3>
 <hr>
 
-Sou curiosa, dedicada e sempre pronta para aprender e me desafiar, além de admiradora da tecnologia e por tudo que ela nos proporciona alcançar. 
-Atualmente desenvolvo em Java, trabalho como QA e sigo em busca de novos conhecimentos!
+Possuo experiência de pouco mais de um ano na área da tecnologia, precisamente como QA, porém, atualmente meu foco está voltado ao aprofundamento em Desenvolvimento Web. Sou curiosa, dedicada e estou sempre pronta para aprender mais! Amo o que faço porque amo a tecnologia devido ao poder de mudança que, através dela, podemos causar na sociedade.
 
 <img src="https://31.media.tumblr.com/76470f55efbc8cc7ec81778d18febc91/tumblr_mwn4rvyG4O1t2jjpjo1_500.gif" style="width: 120px; padding: -100px;">
 
