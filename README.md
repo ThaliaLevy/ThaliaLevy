@@ -1,4 +1,4 @@
-<div align="center">
+<div align="justify">
   <h3>APRESENTAÇÃO</h3>
 <img align="left" src="https://31.media.tumblr.com/76470f55efbc8cc7ec81778d18febc91/tumblr_mwn4rvyG4O1t2jjpjo1_500.gif" style="width: 120px;">
 
