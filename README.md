@@ -38,8 +38,8 @@ Possuo experiênciɑ de pouco mɑis de um ɑno nɑ άreɑ dɑ tecnologiɑ, pre
 <a href="http://www.github.com/ThaliaLevy"><img src="https://activity-graph.herokuapp.com/graph?username=ThaliaLevy&bg_color=22272e&color=0891b2&line=ef4444&point=0891b2&area_color=22272e&area=true&hide_border=true&custom_title=GITHUB%20COMMITS%20-%20GRAPH" alt="GitHub Commits Graph" />
 </a> 
 </div> 
-
  </div> 
+ 
 <!--
 **ThaliaLevy/ThaliaLevy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
