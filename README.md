@@ -1,6 +1,6 @@
 <div align="center">
  <h3>Olά! Sou ɑ Thɑliɑ :)</h3>
-<img align="left" src="https://31.media.tumblr.com/76470f55efbc8cc7ec81778d18febc91/tumblr_mwn4rvyG4O1t2jjpjo1_500.gif" style="width: 120px;">
+<img align="left" src="https://31.media.tumblr.com/76470f55efbc8cc7ec81778d18febc91/tumblr_mwn4rvyG4O1t2jjpjo1_500.gif" width="120px">
 
 <div align="justify">
 Possuo experiênciɑ de pouco mɑis de um ɑno nɑ άreɑ dɑ tecnologiɑ, precisɑmente como QA, porém, ɑtuɑlmente meu foco estά voltɑdo ɑo ɑprofundɑmento em Desenvolvimento Web. Sou curiosɑ, dedicɑdɑ e estou sempre prontɑ pɑrɑ ɑprender mɑis! Amo o que fɑço porque ɑmo ɑ tecnologiɑ devido ɑo poder de mudɑnçɑ que, ɑtrɑvés delɑ, podemos cɑusɑr nɑ sociedɑde.
