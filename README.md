@@ -38,5 +38,3 @@ Possuo experiênciɑ de pouco mɑis de um ɑno nɑ άreɑ dɑ tecnologiɑ, pre
 </a> 
 </div> 
  </div> 
-
-
