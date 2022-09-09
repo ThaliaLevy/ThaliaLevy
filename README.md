@@ -34,7 +34,5 @@ Possuo experiência de quase dois anos na área da tecnologia, em sua maioria co
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ThaliaLevy&theme=cobalt&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<a href="http://www.github.com/ThaliaLevy"><img src="https://activity-graph.herokuapp.com/graph?username=ThaliaLevy&bg_color=22272e&color=0891b2&line=ef4444&point=0891b2&area_color=22272e&area=true&hide_border=true&custom_title=GITHUB%20COMMITS%20-%20GRAPH" alt="GitHub Commits Graph" />
-</a> 
 </div> 
  </div> 
