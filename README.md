@@ -1,5 +1,4 @@
 <div align="center">
-
  <h3>Olá! Eu sou a Thalia :)</h3>
 <img align="left" src="https://discordhome.com/user_upload/emojis/dancing_bunny[1]-gifemoji.gif">
 <br><br>
