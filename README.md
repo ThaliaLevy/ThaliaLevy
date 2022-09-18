@@ -6,6 +6,7 @@
 Possuo experiência de quase dois anos na área da tecnologia, em sua maioria como QA, porém, atualmente migrei e meu foco está voltado ao aprofundamento em desenvolvimento de software. Sou curiosa, dedicada e estou sempre pronta para aprender mais! Amo o que faço porque amo a tecnologia devido ao poder de mudança que, através dela, podemos causar na sociedade.
 </div>
 <hr>
+ 
 <h4 align="center">ENTRE EM CONTATO</h4>
 
 <a href="https://www.linkedin.com/in/thalialevy"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  <a href="https://www.instagram.com/thalialevy_/?hl=pt-br/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>  <a href="https://api.whatsapp.com/send?phone=5521996661421"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>  
