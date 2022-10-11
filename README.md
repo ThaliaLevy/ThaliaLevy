@@ -30,6 +30,5 @@ Possuo experiência de quase dois anos na área da tecnologia, em sua maioria co
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalialevy&exclude_repo=logica-basica,step-computer-academy-modulo04,step-academy-computer-modulo01,ORGANIZAR,projeto-loja-tecidos=github-readme-stats,anuraghazra.github.io&theme=dracula&title_color=d986ca&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ThaliaLevy&theme=cobalt&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 </div> 
  </div> 
