@@ -6,6 +6,8 @@
 Possuo experiência de quase dois anos na área da tecnologia, em sua maioria como QA, porém, atualmente migrei e meu foco está voltado ao aprofundamento em desenvolvimento de software. Sou curiosa, dedicada e estou sempre pronta para aprender mais! Amo o que faço porque amo a tecnologia devido ao poder de mudança que, através dela, podemos causar na sociedade.
 </div>
 <hr>
+
+
  
 <h4 align="center">ENTRE EM CONTATO</h4>
  
