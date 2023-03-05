@@ -1,6 +1,6 @@
 <div align="center">
  <h3>Olá, pessoal! <img src="https://media.giphy.com/media/dUmio3gDAVb7a/giphy.gif" height="26px" width="26px"></h3>
-<img align="left" src="http://mylenna.xyz/assets/style/imgs/giphy1.gif" height="165px" width="165px">
+<img align="left" src="http://mylenna.xyz/assets/style/imgs/giphy1.gif" height="155px" width="155px">
 <br><br>
 <div align="justify">
 Sou a Thalia, atuo como estagiária em desenvolvimento de software e tenho experiência de quase dois anos como analista de
@@ -9,7 +9,7 @@ automatizados end-to-end em Cypress, auxiliei em revisões de código e ampliei 
 sobre qualidade, o que agrega maior valor aos códigos que desenvolvo hoje.
 </div>
  
-<br><br>
+<br>
 <hr>
 <br>
 <h3 align="center">Para entrar em contato comigo:</h3>
