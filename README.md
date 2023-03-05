@@ -8,7 +8,7 @@ testes/QA. Durante esse tempo trabalhei em equipes ágeis utilizando a metodolog
 automatizados end-to-end em Cypress, auxiliei em revisões de código e ampliei os meus conhecimentos
 sobre qualidade, o que agrega maior valor aos códigos que desenvolvo hoje.
 </div>
-<br>
+<br><br>
 <div align="justify">
 Para mais detalhes, meu cv: https://levythalia.com/wp-content/uploads/2023/03/cv-thalia-1.pdf
 </div>
