@@ -1,6 +1,6 @@
 <div align="center">
  <h3>Olá, pessoal! <img src="https://media.giphy.com/media/dUmio3gDAVb7a/giphy.gif" height="26px" width="26px"></h3>
-<img align="left" src="http://mylenna.xyz/assets/style/imgs/giphy1.gif" height="175px" width="175px">
+<img align="left" src="http://mylenna.xyz/assets/style/imgs/giphy1.gif" height="165px" width="165px">
 <br><br>
 <div align="justify">
 Sou a Thalia, atuo como estagiária em desenvolvimento de software e tenho experiência de quase dois anos como analista de
