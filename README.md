@@ -7,6 +7,8 @@ Sou a Thalia, atuo como estagiária em desenvolvimento de software com foco em J
 testes/QA. Durante esse tempo trabalhei em equipes ágeis utilizando a metodologia Scrum, criei testes
 automatizados end-to-end em Cypress, auxiliei em revisões de código e ampliei os meus conhecimentos
 sobre qualidade, o que agrega maior valor aos códigos que desenvolvo hoje.
+<br>
+Para mais detalhes, meu cv: https://levythalia.com/wp-content/uploads/2023/03/cv-thalia-1.pdf
 </div>
  
 <br>
