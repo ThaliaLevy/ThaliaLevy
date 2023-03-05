@@ -3,7 +3,7 @@
 <img align="left" src="http://mylenna.xyz/assets/style/imgs/giphy1.gif" height="155px" width="155px">
 <br><br>
 <div align="justify">
-Sou a Thalia, atuo como estagiária em desenvolvimento de software e tenho experiência de quase dois anos como analista de
+Sou a Thalia, atuo como estagiária em desenvolvimento de software com foco em Java e tenho experiência de quase dois anos como analista de
 testes/QA. Durante esse tempo trabalhei em equipes ágeis utilizando a metodologia Scrum, criei testes
 automatizados end-to-end em Cypress, auxiliei em revisões de código e ampliei os meus conhecimentos
 sobre qualidade, o que agrega maior valor aos códigos que desenvolvo hoje.
