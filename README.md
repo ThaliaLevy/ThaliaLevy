@@ -9,7 +9,8 @@ automatizados end-to-end em Cypress, auxiliei em revisões de código e ampliei 
 sobre qualidade, o que agrega maior valor aos códigos que desenvolvo hoje.
 </div>
  
-<br><hr>
+<br><br>
+<hr>
 <h4 align="center">ENTRE EM CONTATO</h4>
  
 <a href="https://www.linkedin.com/in/thalialevy"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  <a href="https://www.instagram.com/thalialevy_/?hl=pt-br/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>  <a href="https://api.whatsapp.com/send?phone=5521996661421"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>  
