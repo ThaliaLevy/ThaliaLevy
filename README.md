@@ -3,14 +3,11 @@
 <img align="left" src="http://mylenna.xyz/assets/style/imgs/giphy1.gif" height="155px" width="155px">
 <br><br>
 <div align="justify">
-Sou a Thalia, atuo como estagiária em desenvolvimento de software com foco em Java e tenho experiência de quase dois anos como analista de
-testes/QA. Durante esse tempo trabalhei em equipes ágeis utilizando a metodologia Scrum, criei testes
-automatizados end-to-end em Cypress, auxiliei em revisões de código e ampliei os meus conhecimentos
-sobre qualidade, o que agrega maior valor aos códigos que desenvolvo hoje.
+Sou a Thalia, tenho cerca de 3 anos de experiência na área de tecnologia, sendo 2 anos com Qualidade de Software como Analista de Testes/QA em um e-commerce e em uma health tech. Atualmente atuo com Java em desenvolvimento de APIs, realizo testes unitários e revisão de código, e sempre busco a maior qualidade na entrega, além de ter boas noções de front-end com JavaScript e Angular.
 </div>
 <br><br>
 <div align="justify">
-Para mais detalhes, meu cv: https://levythalia.com/wp-content/uploads/2023/03/cv-thalia.pdf
+Para mais detalhes, meu cv: https://levythalia.com/wp-content/uploads/2023/04/cv-thalia-levy-1.pdf
 </div>
 <hr>
 <br>
