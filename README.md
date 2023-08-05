@@ -3,7 +3,7 @@
 <img align="left" src="http://mylenna.xyz/assets/style/imgs/giphy1.gif" height="155px" width="155px">
 <br><br>
 <div align="justify">
-Sou a Thalia, tenho cerca de 3 anos de experiência na área de tecnologia, sendo 2 anos com Qualidade de Software como Analista de Testes/QA em um e-commerce e em uma health tech. Atualmente atuo com Java em desenvolvimento de APIs, realizo testes unitários e revisão de código, e sempre busco a maior qualidade na entrega, além de ter boas noções de front-end com JavaScript e Angular.
+Sou a Thalia, tenho quase 4 anos de experiência na área de tecnologia, sendo 2 anos com Qualidade de Software como Analista de Testes/QA em um e-commerce e em uma health tech. Atualmente atuo com Java em desenvolvimento de APIs, realizo testes unitários e revisão de código, e sempre busco a maior qualidade na entrega, além de ter boas noções de front-end com JavaScript e Angular.
 </div>
 <br><br>
 <div align="justify">
