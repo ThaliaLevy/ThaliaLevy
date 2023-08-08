@@ -12,7 +12,8 @@ Para mais detalhes, meu cv: https://levythalia.com/wp-content/uploads/2023/04/cv
 <hr>
 <br>
 <h3 align="center">Para entrar em contato comigo:</h3>
-<a href="https://www.linkedin.com/in/thalialevy"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  <a href="https://www.instagram.com/thalialevy_/?hl=pt-br/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>  <a href="https://api.whatsapp.com/send?phone=5521996661421"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>  
+<a href="https://www.linkedin.com/in/thalialevy"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>    
+<a href="https://api.whatsapp.com/send?phone=5521996661421"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>  
 <br><br><br>
 <hr>
 </p><h3>As principais tecnologias que utilizo são:</h3>
