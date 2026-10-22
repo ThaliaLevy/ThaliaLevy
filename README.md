@@ -3,7 +3,7 @@
  <img src="https://media.giphy.com/headers/salesforce/ZcLcnBDRoGYW.gif">
  <br>
  <div align="justify">
-  Com aproximadamente 4 anos de experiência na área de tecnologia, trabalhei com Qualidade de Software por 2 anos, em um e-commerce e em uma health tech, e atualmente atuo como Desenvolvedora de Software com foco em Salesforce, em uma consultoria líder em transformação digital. Durante minha atuação como QA, desenvolvi habilidades para construir soluções que visam alta qualidade, serem eficientes e escaláveis. Hoje lido principalmente com Apex, LWC, integrações, revisão de código e testes unitários.
+  Com aproximadamente 6 anos de experiência na área de tecnologia, trabalhei com Qualidade de Software por 2 anos, em um e-commerce e em uma health tech, e atualmente atuo como Desenvolvedora de Software com foco em Salesforce, em uma consultoria líder em transformação digital. Durante minha atuação como QA, desenvolvi habilidades para construir soluções que visam alta qualidade, serem eficientes e escaláveis. Hoje lido principalmente com Apex, LWC, integrações, revisão de código e testes unitários.
   <br>
   <h4>Contato:</h4>
   <a href="https://www.linkedin.com/in/thalialevy"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>   
